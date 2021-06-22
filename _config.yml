@@ -11,13 +11,8 @@ github_repo: "https://github.com/wondercharlie/wondercharlie.github.io.git" # yo
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-<<<<<<< HEAD
-# sidebar-about-description: "Many foes, one strike"
+sidebar-about-description: "It shall be done."
 sidebar-avatar: /img/charlie_avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-=======
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
->>>>>>> parent of 8cab0e0 (update)
 
 
 
@@ -118,4 +113,4 @@ friends: [
     }
 ]
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
